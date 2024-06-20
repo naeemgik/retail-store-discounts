@@ -34,3 +34,9 @@ mvn jacoco:report
 ```
 mvn checkstyle:check
 ```
+
+## UML Class Diagram
+
+```
+docs/uml-class-diagram.png
+```
